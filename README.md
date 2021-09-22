@@ -1,5 +1,5 @@
 # multi_chat
- multi chat program	
+ multi chat program &socket programming	
 	
  with ubuntu in virtual box 	
 	
